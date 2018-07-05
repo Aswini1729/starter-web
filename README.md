@@ -12,7 +12,7 @@ We have done so much of work together
 
 ## GIT Comparisiones
 Adding GIT Comparisones Lectures
-
+Adding new lectures of stash
 ## Purpose
 
 Sample website with plenty of files for demos
