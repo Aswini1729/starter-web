@@ -9,6 +9,8 @@ Adding imp notes on GIT Stash...
 
 Modiying it in myBranch branch
 
+AWS solution architect, developer
+
 
 # TEAM
 
